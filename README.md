@@ -70,7 +70,7 @@ Since then I've been living happily between two worlds. The **front end**, where
 
 ## 🇧🇮 Proudly Burundian — country code +257
 
-Some things you don't choose, you just carry them with pride. I'm **Burundian**, and **+257** is the code that follows me everywhere I go: on my CV, in my LinkedIn handle (`...bdi`), in the systems I build for my country, and now on this page. 🇧🇮
+Some things you don't choose, you just carry them with pride. I'm **Burundian**, and **+257** is the code that follows me everywhere I go: in my LinkedIn handle (`...bdi`), in the systems I build for my country, and now on this page. 🇧🇮
 
 Burundi is a small country on the shores of Lake Tanganyika, but it's where my whole story with software began. I grew up there, earned my **Bachelor's degree in Software Engineering** there, and learned early that meaningful things get built with curiosity, discipline and iteration — not with the fanciest tools or the biggest budget. That's still exactly how I work today.
 
