@@ -9,6 +9,8 @@
 
 <div align="center">
 
+<img src="https://github.com/MGuyF.png" width="150" alt="Guy Fleury Manirakiza (Manguy) — Burundian full-stack developer" />
+
 <h1>Hey 👋 I'm Guy Fleury Manirakiza — everyone calls me <em>Manguy</em></h1>
 
 <h3>Proudly Burundian 🇧🇮 (+257) · Full-Stack Developer · React · Next.js · TypeScript · Django · Laravel</h3>
