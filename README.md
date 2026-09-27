@@ -55,7 +55,7 @@
 
 ## 🧑‍💻 About me — the way I'd tell it over a coffee
 
-I'm **Guy Fleury Manirakiza**, known everywhere as **Manguy** — a full-stack developer with a **Burundian heart** and a keyboard that never really cools down. I fell for this craft because of one simple feeling: that moment when something you built makes somebody's day a little easier.
+I'm **Guy Fleury Manirakiza**, known also as **Manguy** — a full-stack developer with a **Burundian heart** and a keyboard that never really cools down. I fell for this craft because of one simple feeling: that moment when something you built makes somebody's day a little easier.
 
 Since then I've been living happily between two worlds. The **front end**, where I obsess over spacing, motion and how a page *feels* in someone's hands. And the **back end**, where I design the data models, secure APIs and business logic that have to hold up when real users show up.
 
