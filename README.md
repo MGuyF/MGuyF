@@ -160,39 +160,9 @@ System engineering, low-level programming in C, shell scripting and DevOps — t
 
 ## 📊 GitHub in numbers
 
-Numbers are fun, but the code behind them is more fun — still, here's a quick snapshot for the curious. *(These cards come from services that stay online — the classic `github-readme-stats` images often go blank when the public instance hits GitHub's API rate limit, so I use sturdier ones.)*
-
 <div align="center">
 
-<a href="https://github.com/MGuyF?tab=repositories" title="My repositories">
-  <img src="https://img.shields.io/github/followers/MGuyF?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=3b82f6&amp;labelColor=0b1020" alt="GitHub followers of MGuyF — Guy Fleury Manirakiza (Manguy)" />
-</a>
-<a href="https://github.com/MGuyF?tab=repositories" title="My repositories">
-  <img src="https://img.shields.io/github/stars/MGuyF?affiliations=OWNER&amp;style=for-the-badge&amp;logo=github&amp;label=Stars&amp;color=18ad8f&amp;labelColor=0b1020" alt="Total GitHub stars of MGuyF — Guy Fleury Manirakiza (Manguy)" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=MGuyF&amp;style=for-the-badge&amp;color=18ad8f&amp;label=Profile+views" alt="Profile views of Guy Fleury Manirakiza (Manguy)" />
-
-<br />
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MGuyF&amp;theme=github_dark" alt="GitHub profile summary of MGuyF — Guy Fleury Manirakiza (Manguy): contributions, stars and repositories" />
-
-<br />
-
-<img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MGuyF&amp;theme=github_dark" alt="Repositories per language — Guy Fleury Manirakiza (Manguy)" />
-<img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MGuyF&amp;theme=github_dark" alt="Most used languages by commits — Guy Fleury Manirakiza (Manguy)" />
-
-<br />
-
-<img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MGuyF&amp;theme=github_dark" alt="GitHub statistics of Guy Fleury Manirakiza (Manguy)" />
-<img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MGuyF&amp;theme=github_dark&amp;utcOffset=2" alt="Productive time of MGuyF — Guy Fleury Manirakiza (Manguy), Burundi/Rwanda time (UTC+2)" />
-
-<br />
-<br />
-
-### Contribution graph 🇧🇮 — one commit at a time
-
-<img width="100%" src="https://ghchart.rshah.org/18ad8f/MGuyF" alt="GitHub contribution graph of MGuyF — Guy Fleury Manirakiza (Manguy), proudly Burundian +257" />
+<img src="https://streak-stats.demolab.com/?user=MGuyF&amp;hide_border=true&amp;background=0b1020&amp;stroke=3b82f6&amp;ring=18ad8f&amp;fire=18ad8f&amp;currStreakLabel=18ad8f&amp;sideLabels=cbd5e1&amp;dates=94a3b8&amp;currStreakNum=ffffff&amp;sideNums=ffffff" alt="GitHub contribution streak of MGuyF" />
 
 </div>
 
