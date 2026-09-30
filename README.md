@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  🇧🇮 Burundi · &nbsp; 📍 based in Nyamata, Rwanda &nbsp;·&nbsp; 🌍 open to remote &amp; on-site
+  🇧🇮 Burundi &nbsp;·&nbsp; 📍 based in Nyamata, Rwanda &nbsp;·&nbsp; 🌍 open to remote &amp; on-site
 </p>
 
 <p>
