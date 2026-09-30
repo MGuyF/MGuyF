@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  🇧🇮 Burundi · &nbsp;·&nbsp; 📍 based in Nyamata, Rwanda &nbsp;·&nbsp; 🌍 open to remote &amp; on-site
+  🇧🇮 Burundi · &nbsp; 📍 based in Nyamata, Rwanda &nbsp;·&nbsp; 🌍 open to remote &amp; on-site
 </p>
 
 <p>
@@ -46,7 +46,7 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=22&pause=1000&color=18AD8F&center=true&vCenter=true&width=700&lines=Proudly+Burundian+%7C+country+code+%2B257;Full-Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript;Django+%7C+Laravel+%7C+Vue.js+%7C+Inertia.js;Building+end-to-end+products+people+love+using;Portfolio+%3A+manguy-portfolio.vercel.app" alt="Proudly Burundian — Full-Stack Developer — React, Next.js, TypeScript, Django, Laravel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=22&pause=1000&color=18AD8F&center=true&vCenter=true&width=700&lines=Proudly+Burundian;Full-Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript;Django+%7C+Laravel+%7C+Vue.js+%7C+Inertia.js;Building+end-to-end+products+people+love+using;Portfolio+%3A+manguy-portfolio.vercel.app" alt="Proudly Burundian — Full-Stack Developer — React, Next.js, TypeScript, Django, Laravel" />
 </p>
 
 </div>
