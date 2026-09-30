@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  🇧🇮 Burundi · country code <strong>+257</strong> &nbsp;·&nbsp; 📍 based in Nyamata, Rwanda &nbsp;·&nbsp; 🌍 open to remote &amp; on-site
+  🇧🇮 Burundi · &nbsp;·&nbsp; 📍 based in Nyamata, Rwanda &nbsp;·&nbsp; 🌍 open to remote &amp; on-site
 </p>
 
 <p>
@@ -41,7 +41,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/🇧🇮_Burundi-Proud_and_genuine-CE1126?style=for-the-badge&amp;labelColor=1EB53A" alt="Proudly Burundian" />
-  <img src="https://img.shields.io/badge/Country_code-%2B257-1EB53A?style=for-the-badge&amp;labelColor=CE1126" alt="Burundi country code +257" />
+  <img src="https://img.shields.io/badge/Country_code-%2B257-1EB53A?style=for-the-badge&amp;labelColor=CE1126" alt="Burundi" />
   <img src="https://img.shields.io/badge/Made_in_Burundi-East_Africa-CE1126?style=for-the-badge&amp;labelColor=0b1020" alt="Made in Burundi, East Africa" />
 </p>
 
@@ -68,7 +68,7 @@ Since then I've been living happily between two worlds. The **front end**, where
 
 ---
 
-## 🇧🇮 Proudly Burundian — country code +257
+## 🇧🇮 Proudly Burundian
 
 Some things you don't choose, you just carry them with pride. I'm **Burundian**, and **+257** is the code that follows me everywhere I go: in my LinkedIn handle (`...bdi`), in the systems I build for my country, and now on this page. 🇧🇮
 
@@ -76,7 +76,7 @@ Burundi is a small country on the shores of Lake Tanganyika, but it's where my w
 
 That's also why one of the integrations I'm proudest of is a compliance connector for **Burundi's OBR e-invoicing (eBM) platform**: making software that helps my own country's businesses run smoother is a different kind of satisfying.
 
-🇧🇮 **Home:** Burundi · **Country code:** +257 · 🗣️ **Kirundi** (native) · **Français** (fluent) · **English** (professional working proficiency)
+🇧🇮 **Home:** Burundi · 🗣️ **Kirundi** (native) · **Français** (fluent) · **English** (professional working proficiency)
 
 ---
 
@@ -189,7 +189,7 @@ If you made it this far — thank you, that genuinely means a lot. Whether you h
 <br />
 
 <p>
-  🇧🇮 <strong>Proudly Burundian</strong> — Burundi, country code <strong>+257</strong> &nbsp;·&nbsp; 📍 based in Nyamata, Rwanda &nbsp;·&nbsp; 📧 <a href="mailto:2000291gf@gmail.com">2000291gf@gmail.com</a>
+  🇧🇮 <strong>Proudly Burundian</strong> — Burundi, &nbsp;·&nbsp; 📍 based in Nyamata, Rwanda &nbsp;·&nbsp; 📧 <a href="mailto:2000291gf@gmail.com">2000291gf@gmail.com</a>
 </p>
 
 </div>
