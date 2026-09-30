@@ -41,9 +41,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/🇧🇮_Burundi-Proud_and_genuine-CE1126?style=for-the-badge&amp;labelColor=1EB53A" alt="Proudly Burundian" />
-  <img src="https://img.shields.io/badge/Country_code-%2B257-1EB53A?style=for-the-badge&amp;labelColor=CE1126" alt="Burundi" />
-  <img src="https://img.shields.io/badge/Made_in_Burundi-East_Africa-CE1126?style=for-the-badge&amp;labelColor=0b1020" alt="Made in Burundi, East Africa" />
-</p>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=22&pause=1000&color=18AD8F&center=true&vCenter=true&width=700&lines=Proudly+Burundian;Full-Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript;Django+%7C+Laravel+%7C+Vue.js+%7C+Inertia.js;Building+end-to-end+products+people+love+using;Portfolio+%3A+manguy-portfolio.vercel.app" alt="Proudly Burundian — Full-Stack Developer — React, Next.js, TypeScript, Django, Laravel" />
