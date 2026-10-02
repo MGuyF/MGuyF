@@ -42,11 +42,11 @@
 <b>. Based in:</b> ............ Nyamata, Rwanda 📍 · remote / on-site
 <b>. Role:</b> ................ Full-Stack Developer · open to work
 <b>. Education:</b> ........... B.S. Software Engineering (ULT, Burundi)
-<b>. Languages:</b> ........... TypeScript, JavaScript, Python, PHP, C, SQL
+<b>. Languages:</b> ........... TypeScript, JavaScript, Python, PHP, SQL
 <b>. Front-end:</b> ........... React, Next.js, Vue, Inertia, Tailwind
 <b>. Back-end:</b> ............ Django, DRF, Laravel, REST &amp; GraphQL
 <b>. Data &amp; Maps:</b> ......... PostgreSQL, PostGIS, GeoDjango, MapLibre
-<b>. Tools:</b> ............... Git, GitHub Actions, Vercel, Render, Odoo 17
+<b>. Tools:</b> ............... Git, GitHub Actions, Vercel, Render
 <b>. Portfolio:</b> ........... <a href="https://manguy-portfolio.vercel.app/" title="Portfolio of Guy Fleury Manirakiza (Manguy), full-stack developer" aria-label="Portfolio of Guy Fleury Manirakiza (Manguy), full-stack developer" style="color: #0284c7; text-decoration: none;">manguy-portfolio.vercel.app</a>
 <b>. Email:</b> ............... <a href="mailto:2000291gf@gmail.com" title="Email Guy Fleury Manirakiza (Manguy)" aria-label="Email Guy Fleury Manirakiza (Manguy)" style="color: #0284c7; text-decoration: none;">2000291gf@gmail.com</a>
 <b>. LinkedIn:</b> ............ <a href="https://www.linkedin.com/in/gfmanirakiza29-1-bdi/" title="LinkedIn profile of Guy Fleury Manirakiza (Manguy)" aria-label="LinkedIn profile of Guy Fleury Manirakiza (Manguy)" style="color: #0284c7; text-decoration: none;">linkedin.com/in/gfmanirakiza29-1-bdi</a>
@@ -57,8 +57,7 @@ Featured Projects -------------------------------------------------
 <b>. Bus Driver:</b> .......... <a href="https://bus-driver-full-stack.vercel.app/" title="Bus Driver management app by Manguy" aria-label="Bus Driver management app by Manguy" style="color: #0284c7; text-decoration: none;">Drivers + tours admin</a> · <a href="https://github.com/MGuyF/Bus-Driver-FullStack" title="Bus Driver FullStack source code on GitHub" aria-label="Bus Driver FullStack source code on GitHub" style="color: #0284c7; text-decoration: none;">code</a>
 <b>. Blog:</b> ................ <a href="https://blog-laravue-demo-dbx4.onrender.com/" title="Laravel + Vue mini-blog by Manguy" aria-label="Laravel + Vue mini-blog by Manguy" style="color: #0284c7; text-decoration: none;">Mini-blog · Laravel + Vue</a> · <a href="https://github.com/MGuyF/blog-laravue-demo" title="blog-laravue-demo source code on GitHub" aria-label="blog-laravue-demo source code on GitHub" style="color: #0284c7; text-decoration: none;">code</a>
 <b>. User Mgmt:</b> ........... <a href="https://user-management-assessment-green.vercel.app/" title="User management app (React 19 + TypeScript) by Manguy" aria-label="User management app (React 19 + TypeScript) by Manguy" style="color: #0284c7; text-decoration: none;">React 19 + TS data table</a>
-<b>. EBMS:</b> ................ <a href="https://github.com/MGuyF/odoo-obr-ebms-showcase" title="EBMS Connector — Odoo 17 to Burundi OBR eBM e-invoicing integration" aria-label="EBMS Connector — Odoo 17 to Burundi OBR eBM e-invoicing integration" style="color: #0284c7; text-decoration: none;">Odoo 17 ↔ Burundi OBR eBM (code)</a>
-<b>. Akiwacu:</b> ............. Vue + Laravel platform (private)
+<b>. EBMS:</b> ................ <a href="https://github.com/MGuyF/odoo-obr-ebms-showcase" title="Odoo-OBR-EBMS to Burundi OBR eBM e-invoicing integration" aria-label="EBMS Connector — Odoo 17 to Burundi OBR eBM e-invoicing integration" style="color: #0284c7; text-decoration: none;">Odoo 17 ↔ Burundi OBR eBM (code)</a>
 ------------------------------------------------------------
         </pre>
       </td>
