@@ -7,9 +7,12 @@
   ----------------------------------------------------------------
   LEFT  : assets/guy-fleury-manirakiza-manguy-full-stack-developer.webp  (399px wide -> 512.3px tall)
   RIGHT : terminal panel, 24 lines, one single font size on every line
-  SEO   : descriptive alt + title text, a keyword H2, one natural prose block,
-          descriptive anchor text and a topic line below the card — all verified
-          to survive GitHub's sanitizer (alt/title/h1/h2/sub/align are kept).
+  SEO   : invisible to the design — keywords live ONLY in attributes that GitHub
+          keeps (img alt/title/aria-label, anchor title/aria-label) plus a
+          keyword-rich image filename. No visible text is added: the card design
+          is byte-for-byte the original. Comments/data-* are stripped by GitHub,
+          and the heavy lifting sits in the GitHub bio, repo description/topics
+          and the portfolio's JSON-LD.
   ----------------------------------------------------------------
   HOW THE TWO COLUMNS KEEP THE SAME HEIGHT
   · GitHub renders <pre> at 85% of 16px = 13.6px, line-height 20px and
@@ -29,7 +32,7 @@
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; background-color: #ffffff; width: 100%;">
     <tr>
       <td width="40%" valign="middle" align="center" style="border: none; padding-right: 15px;">
-        <img src="assets/guy-fleury-manirakiza-manguy-full-stack-developer.webp" width="399" alt="Guy Fleury Manirakiza (Manguy) — Burundian full-stack web developer based in Nyamata, Rwanda · React, Next.js, TypeScript, Django, Laravel, PostgreSQL" title="Guy Fleury Manirakiza (Manguy) — full-stack web developer · manguy-portfolio.vercel.app" style="width: 100%; max-width: 399px; height: auto; border-radius: 12px;" />
+        <img src="assets/guy-fleury-manirakiza-manguy-full-stack-developer.webp" width="399" alt="Guy Fleury Manirakiza (Manguy) — Burundian full-stack web developer based in Nyamata, Rwanda · React, Next.js, TypeScript, Django, Laravel, PostgreSQL" title="Guy Fleury Manirakiza (Manguy) — full-stack web developer · manguy-portfolio.vercel.app" aria-label="Guy Fleury Manirakiza (Manguy) — Burundian full-stack web developer based in Nyamata, Rwanda · React, Next.js, TypeScript, Django, Laravel, PostgreSQL" style="width: 100%; max-width: 399px; height: auto; border-radius: 12px;" />
       </td>
       <td width="60%" valign="top" style="border: none; text-align: left; padding-left: 10px;">
         <pre style="font-family: monospace; font-size: 13.6px; line-height: 20px; color: #111827; background: transparent; border: none; margin: 0; padding: 16px 0; white-space: pre;">
@@ -44,17 +47,17 @@
 <b>. Back-end:</b> ............ Django, DRF, Laravel, REST &amp; GraphQL
 <b>. Data &amp; Maps:</b> ......... PostgreSQL, PostGIS, GeoDjango, MapLibre
 <b>. Tools:</b> ............... Git, GitHub Actions, Vercel, Render, Odoo 17
-<b>. Portfolio:</b> ........... <a href="https://manguy-portfolio.vercel.app/" title="Portfolio of Guy Fleury Manirakiza (Manguy), full-stack developer" style="color: #0284c7; text-decoration: none;">manguy-portfolio.vercel.app</a>
-<b>. Email:</b> ............... <a href="mailto:2000291gf@gmail.com" title="Email Guy Fleury Manirakiza (Manguy)" style="color: #0284c7; text-decoration: none;">2000291gf@gmail.com</a>
-<b>. LinkedIn:</b> ............ <a href="https://www.linkedin.com/in/gfmanirakiza29-1-bdi/" title="LinkedIn profile of Guy Fleury Manirakiza (Manguy)" style="color: #0284c7; text-decoration: none;">linkedin.com/in/gfmanirakiza29-1-bdi</a>
-<b>. GitHub:</b> .............. <a href="https://github.com/MGuyF" title="GitHub profile of MGuyF (Guy Fleury Manirakiza)" style="color: #0284c7; text-decoration: none;">github.com/MGuyF</a>
+<b>. Portfolio:</b> ........... <a href="https://manguy-portfolio.vercel.app/" title="Portfolio of Guy Fleury Manirakiza (Manguy), full-stack developer" aria-label="Portfolio of Guy Fleury Manirakiza (Manguy), full-stack developer" style="color: #0284c7; text-decoration: none;">manguy-portfolio.vercel.app</a>
+<b>. Email:</b> ............... <a href="mailto:2000291gf@gmail.com" title="Email Guy Fleury Manirakiza (Manguy)" aria-label="Email Guy Fleury Manirakiza (Manguy)" style="color: #0284c7; text-decoration: none;">2000291gf@gmail.com</a>
+<b>. LinkedIn:</b> ............ <a href="https://www.linkedin.com/in/gfmanirakiza29-1-bdi/" title="LinkedIn profile of Guy Fleury Manirakiza (Manguy)" aria-label="LinkedIn profile of Guy Fleury Manirakiza (Manguy)" style="color: #0284c7; text-decoration: none;">linkedin.com/in/gfmanirakiza29-1-bdi</a>
+<b>. GitHub:</b> .............. <a href="https://github.com/MGuyF" title="GitHub profile of MGuyF (Guy Fleury Manirakiza)" aria-label="GitHub profile of MGuyF (Guy Fleury Manirakiza)" style="color: #0284c7; text-decoration: none;">github.com/MGuyF</a>
 ------------------------------------------------------------
-<b>. SOSGEOAID:</b> ........... <a href="https://sos-geo-aid.vercel.app/" title="SOSGEOAID — humanitarian aid geolocation platform by Manguy" style="color: #0284c7; text-decoration: none;">Aid geolocation · Next.js + PostGIS</a>
-<b>. RefuLearn:</b> ........... <a href="https://refulearn.vercel.app/" title="RefuLearn — refugee education platform by Manguy" style="color: #0284c7; text-decoration: none;">Refugee education platform</a> · <a href="https://github.com/MGuyF/RefuLearn" title="RefuLearn source code on GitHub" style="color: #0284c7; text-decoration: none;">code</a>
-<b>. Bus Driver:</b> .......... <a href="https://bus-driver-full-stack.vercel.app/" title="Bus Driver management app by Manguy" style="color: #0284c7; text-decoration: none;">Drivers + tours admin</a> · <a href="https://github.com/MGuyF/Bus-Driver-FullStack" title="Bus Driver FullStack source code on GitHub" style="color: #0284c7; text-decoration: none;">code</a>
-<b>. Blog:</b> ................ <a href="https://blog-laravue-demo-dbx4.onrender.com/" title="Laravel + Vue mini-blog by Manguy" style="color: #0284c7; text-decoration: none;">Mini-blog · Laravel + Vue</a> · <a href="https://github.com/MGuyF/blog-laravue-demo" title="blog-laravue-demo source code on GitHub" style="color: #0284c7; text-decoration: none;">code</a>
-<b>. User Mgmt:</b> ........... <a href="https://user-management-assessment-green.vercel.app/" title="User management app (React 19 + TypeScript) by Manguy" style="color: #0284c7; text-decoration: none;">React 19 + TS data table</a>
-<b>. EBMS:</b> ................ <a href="https://github.com/MGuyF/odoo-obr-ebms-showcase" title="EBMS Connector — Odoo 17 to Burundi OBR eBM e-invoicing integration" style="color: #0284c7; text-decoration: none;">Odoo 17 ↔ Burundi OBR eBM (code)</a>
+<b>. SOSGEOAID:</b> ........... <a href="https://sos-geo-aid.vercel.app/" title="SOSGEOAID — humanitarian aid geolocation platform by Manguy" aria-label="SOSGEOAID — humanitarian aid geolocation platform by Manguy" style="color: #0284c7; text-decoration: none;">Aid geolocation · Next.js + PostGIS</a>
+<b>. RefuLearn:</b> ........... <a href="https://refulearn.vercel.app/" title="RefuLearn — refugee education platform by Manguy" aria-label="RefuLearn — refugee education platform by Manguy" style="color: #0284c7; text-decoration: none;">Refugee education platform</a> · <a href="https://github.com/MGuyF/RefuLearn" title="RefuLearn source code on GitHub" aria-label="RefuLearn source code on GitHub" style="color: #0284c7; text-decoration: none;">code</a>
+<b>. Bus Driver:</b> .......... <a href="https://bus-driver-full-stack.vercel.app/" title="Bus Driver management app by Manguy" aria-label="Bus Driver management app by Manguy" style="color: #0284c7; text-decoration: none;">Drivers + tours admin</a> · <a href="https://github.com/MGuyF/Bus-Driver-FullStack" title="Bus Driver FullStack source code on GitHub" aria-label="Bus Driver FullStack source code on GitHub" style="color: #0284c7; text-decoration: none;">code</a>
+<b>. Blog:</b> ................ <a href="https://blog-laravue-demo-dbx4.onrender.com/" title="Laravel + Vue mini-blog by Manguy" aria-label="Laravel + Vue mini-blog by Manguy" style="color: #0284c7; text-decoration: none;">Mini-blog · Laravel + Vue</a> · <a href="https://github.com/MGuyF/blog-laravue-demo" title="blog-laravue-demo source code on GitHub" aria-label="blog-laravue-demo source code on GitHub" style="color: #0284c7; text-decoration: none;">code</a>
+<b>. User Mgmt:</b> ........... <a href="https://user-management-assessment-green.vercel.app/" title="User management app (React 19 + TypeScript) by Manguy" aria-label="User management app (React 19 + TypeScript) by Manguy" style="color: #0284c7; text-decoration: none;">React 19 + TS data table</a>
+<b>. EBMS:</b> ................ <a href="https://github.com/MGuyF/odoo-obr-ebms-showcase" title="EBMS Connector — Odoo 17 to Burundi OBR eBM e-invoicing integration" aria-label="EBMS Connector — Odoo 17 to Burundi OBR eBM e-invoicing integration" style="color: #0284c7; text-decoration: none;">Odoo 17 ↔ Burundi OBR eBM (code)</a>
 <b>. Akiwacu:</b> ............. Vue + Laravel platform (private)
 ------------------------------------------------------------
         </pre>
@@ -66,21 +69,5 @@
 ---
 
 <div align="center">
-<h2>Guy Fleury Manirakiza (Manguy) — Full-Stack Web Developer 🇧🇮</h2>
-<p>
-  I'm <b>Guy Fleury Manirakiza</b>, known as <b>Manguy</b> — a <b>Burundian</b> (country code <b>+257</b>) full-stack
-  web developer based in <b>Nyamata, Rwanda</b>. I build web products end to end: <b>React, Next.js, TypeScript,
-  Vue.js, Inertia.js</b> and <b>Tailwind CSS</b> on the front end, <b>Django, Django REST Framework, Laravel,
-  GraphQL and REST APIs</b> with <b>PostgreSQL, PostGIS and GeoDjango</b> on the back end. Open to remote and
-  on-site roles, freelance missions and open-source collaboration.
-</p>
-<p>
-  <a href="https://manguy-portfolio.vercel.app/" title="Portfolio of Guy Fleury Manirakiza (Manguy)">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/gfmanirakiza29-1-bdi/" title="LinkedIn of Guy Fleury Manirakiza (Manguy)">LinkedIn</a> ·
-  <a href="mailto:2000291gf@gmail.com" title="Email Guy Fleury Manirakiza (Manguy)">Email</a> ·
-  <a href="https://github.com/MGuyF" title="GitHub of MGuyF (Guy Fleury Manirakiza)">GitHub</a>
-</p>
-<sub>full-stack developer Burundi · React developer · Next.js developer · TypeScript developer · Django developer · Laravel developer · Vue.js developer · Inertia.js · Tailwind CSS · PostgreSQL · PostGIS · GeoDjango · GraphQL · REST API · Odoo 17 developer · full-stack developer Rwanda · remote full-stack developer</sub>
-<br /><br />
-<sub>Built with passion by <b>Guy Fleury Manirakiza (Manguy)</b> · Amahoro from Burundi 🇧🇮</sub>
+  <sub>Built with passion by <b>Guy Fleury Manirakiza (Manguy)</b> · Amahoro from Burundi 🇧🇮</sub>
 </div>
