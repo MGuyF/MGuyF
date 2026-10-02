@@ -3,9 +3,9 @@
   GitHub Profile README (design card) — Guy Fleury Manirakiza (Manguy) / MGuyF
   Proudly Burundian 🇧🇮 — country code +257 · Full-Stack Developer
   Portfolio: https://manguy-portfolio.vercel.app/
-  This file belongs to the MGuyF/MGuyF repository (ship it as README.md).
+  This IS the live README.md of the MGuyF/MGuyF repository.
   ----------------------------------------------------------------
-  LEFT  : assets/manguy_github_profile_photo.webp  (399px wide -> 512.3px tall)
+  LEFT  : assets/guy-fleury-manirakiza-manguy-full-stack-developer.webp  (399px wide -> 512.3px tall)
   RIGHT : terminal panel, 24 lines, one single font size on every line
   SEO   : descriptive alt + title text, a keyword H2, one natural prose block,
           descriptive anchor text and a topic line below the card — all verified
@@ -29,7 +29,7 @@
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; background-color: #ffffff; width: 100%;">
     <tr>
       <td width="40%" valign="middle" align="center" style="border: none; padding-right: 15px;">
-        <img src="assets/manguy_github_profile_photo.webp" width="399" alt="Guy Fleury Manirakiza (Manguy) — Burundian full-stack web developer based in Nyamata, Rwanda · React, Next.js, TypeScript, Django, Laravel, PostgreSQL" title="Guy Fleury Manirakiza (Manguy) — full-stack web developer · manguy-portfolio.vercel.app" style="width: 100%; max-width: 399px; height: auto; border-radius: 12px;" />
+        <img src="assets/guy-fleury-manirakiza-manguy-full-stack-developer.webp" width="399" alt="Guy Fleury Manirakiza (Manguy) — Burundian full-stack web developer based in Nyamata, Rwanda · React, Next.js, TypeScript, Django, Laravel, PostgreSQL" title="Guy Fleury Manirakiza (Manguy) — full-stack web developer · manguy-portfolio.vercel.app" style="width: 100%; max-width: 399px; height: auto; border-radius: 12px;" />
       </td>
       <td width="60%" valign="top" style="border: none; text-align: left; padding-left: 10px;">
         <pre style="font-family: monospace; font-size: 13.6px; line-height: 20px; color: #111827; background: transparent; border: none; margin: 0; padding: 16px 0; white-space: pre;">
