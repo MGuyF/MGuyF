@@ -36,7 +36,7 @@
       </td>
       <td width="60%" valign="top" style="border: none; text-align: left; padding-left: 10px;">
         <pre style="font-family: monospace; font-size: 13.6px; line-height: 20px; color: #111827; background: transparent; border: none; margin: 0; padding: 16px 0; white-space: pre;">
-<b>manguy@github</b> ----------------------------------------------
+<b>MGuyF@github</b> ----------------------------------------------
 <b>. Name:</b> ................ Guy Fleury Manirakiza (Manguy)
 <b>. Origin:</b> .............. Burundian 🇧🇮 · country code +257
 <b>. Based in:</b> ............ Nyamata, Rwanda 📍 · remote / on-site
